@@ -1,6 +1,5 @@
 # JIRA
 for the NOVA jira project 
-# 🚀 [Your Project Name] – End-to-End Development Lifecycle
 
 This repository documents and tracks the complete lifecycle of the **[Your Project Name]**, from project initiation to system deployment and user support. It is structured to follow standard software development lifecycle (SDLC) practices, ensuring a clear, iterative, and organized delivery.
 
